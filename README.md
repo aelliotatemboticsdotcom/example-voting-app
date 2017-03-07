@@ -1,6 +1,11 @@
 Example Voting App
 =========
 
+This project was 'borrowed' from: https://github.com/docker/example-voting-app
+
+I've changed some files to update different revisions
+
+
 Getting started
 ---------------
 
